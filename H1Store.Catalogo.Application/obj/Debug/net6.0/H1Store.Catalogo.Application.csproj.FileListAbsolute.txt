@@ -1,0 +1,15 @@
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\obj\Debug\net6.0\H1Store.Catalogo.Application.csproj.AssemblyReference.cache
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\obj\Debug\net6.0\H1Store.Catalogo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\obj\Debug\net6.0\H1Store.Catalogo.Application.AssemblyInfoInputs.cache
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\obj\Debug\net6.0\H1Store.Catalogo.Application.AssemblyInfo.cs
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\obj\Debug\net6.0\H1Store.Catalogo.Application.csproj.CoreCompileInputs.cache
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\bin\Debug\net6.0\H1Store.Catalogo.Application.deps.json
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\bin\Debug\net6.0\H1Store.Catalogo.Application.dll
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\bin\Debug\net6.0\H1Store.Catalogo.Application.pdb
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\bin\Debug\net6.0\H1Store.Catalogo.Domain.dll
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\bin\Debug\net6.0\H1Store.Catalogo.Domain.pdb
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\obj\Debug\net6.0\H1Store.Catalogo.Application.csproj.CopyComplete
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\obj\Debug\net6.0\H1Store.Catalogo.Application.dll
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\obj\Debug\net6.0\refint\H1Store.Catalogo.Application.dll
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\obj\Debug\net6.0\H1Store.Catalogo.Application.pdb
+C:\Users\gaby3\Downloads\Prova-Humberto-2-main\Prova-Humberto-2-main\Src\H1Store.Catalogo.Application\obj\Debug\net6.0\ref\H1Store.Catalogo.Application.dll
